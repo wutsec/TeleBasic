@@ -23,7 +23,7 @@
 	40 REM for ftpd
 	   print "Dialing telehack..."
 	   sleep 1
-	   th_exec ("ftp 10.63.169.66"),out$
+	   th_exec ("ftp 10.40.95.169"),out$
 	   goto 50
 
 	50 REM ftp procedure
